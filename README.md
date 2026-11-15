@@ -79,7 +79,7 @@
 📥 **[Скачать последнюю версию (v1.0.0)](https://github.com/Paminabea/plannerlife-app/releases/download/v1.0.0/PlannerLife.apk)**
 
 ### Магазины приложений / App Stores
-- [RuStore]() 
+- [RuStore](https://www.rustore.ru/catalog/app/com.planner.life) 
 - [Huawei AppGallery]() 
 
 ## 🛠️ Технологии / Tech Stack
